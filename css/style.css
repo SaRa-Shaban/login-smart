@@ -1,0 +1,65 @@
+.bg{
+    background-color: #24353f;
+}
+
+.content{
+    background-color: #24353f;
+    box-shadow : -5px 2px 54px -9px rgb(0 0 0);
+
+}
+
+.contain{
+    width: 70% ;
+}
+
+.text-color{
+    color: #17a2b8;
+}
+
+.login{
+    color: #17a2b8;
+    border-color: #17a2b8;
+    transition: all 0.3s 0.1s;
+}
+
+.login:hover{
+    color: white;
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+
+}
+
+.sign-up{
+    font-size: 14px;
+    color: white;
+    text-decoration: none;
+}
+
+.sign-up:hover{
+    color: white;
+    text-decoration:underline;
+}
+
+.form-control{
+    color: white;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+
+.form-control:focus{
+    color: white;
+    box-shadow: none;
+}
+
+.btn-outline-style{
+    color: gray;
+    border-color: #ffc107;
+    transition: all 0.2s 0.1s;
+}
+
+.btn-outline-style:hover{
+    color: white;
+    border-color: #ffc107;
+
+    background-color: #ffc107;
+}
